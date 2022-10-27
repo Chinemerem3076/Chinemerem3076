@@ -30,6 +30,10 @@ Github is cloud storage use to save a git file.
 💬 Ask me about...
 
 📫 How to reach me, call: 08056417619...
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://Portofolio-Page.chinemerem3076.repl.co)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Chinemrem3076)
 
 😄 Pronouns...
 
